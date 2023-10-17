@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B123E6AB-FF23-4548-9FE0-6C17B8F1007A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2049B311-6396-479A-9ACB-A0F77A71A524"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TeaMenu/AppViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "7"
+            endingLineNumber = "7"
+            landmarkName = "AppViewModel"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "2049B311-6396-479A-9ACB-A0F77A71A524 - cc1e9d3ef06364b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of TeaMenu.AppViewModel.bubbleTeaMenu : Swift.Array&lt;TeaMenu.BubbleTea&gt;"
+                  moduleName = "TeaMenu"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mine/Desktop/TeaMenu/TeaMenu/AppViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "6"
+                  endingLineNumber = "6"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "2049B311-6396-479A-9ACB-A0F77A71A524 - 6bd8ab2fb87c3b21"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TeaMenu.AppViewModel.bubbleTeaMenu.getter : Swift.Array&lt;TeaMenu.BubbleTea&gt;"
+                  moduleName = "TeaMenu"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mine/Desktop/TeaMenu/TeaMenu/AppViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "6"
+                  endingLineNumber = "6"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "2049B311-6396-479A-9ACB-A0F77A71A524 - 98c727a0d0563335"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TeaMenu.AppViewModel.bubbleTeaMenu.setter : Swift.Array&lt;TeaMenu.BubbleTea&gt;"
+                  moduleName = "TeaMenu"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mine/Desktop/TeaMenu/TeaMenu/AppViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "6"
+                  endingLineNumber = "6"
+                  offsetFromSymbolStart = "140">
+               </Location>
+               <Location
+                  uuid = "2049B311-6396-479A-9ACB-A0F77A71A524 - 684d7073be269522"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TeaMenu.AppViewModel.bubbleTeaMenu.modify : Swift.Array&lt;TeaMenu.BubbleTea&gt;"
+                  moduleName = "TeaMenu"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mine/Desktop/TeaMenu/TeaMenu/AppViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "6"
+                  endingLineNumber = "6"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "2049B311-6396-479A-9ACB-A0F77A71A524 - 5760b6a8578d7975"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TeaMenu.AppViewModel.bubbleTeaMenu.modify : Swift.Array&lt;TeaMenu.BubbleTea&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "TeaMenu"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mine/Desktop/TeaMenu/TeaMenu/AppViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "6"
+                  endingLineNumber = "6"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "2049B311-6396-479A-9ACB-A0F77A71A524 - 3d35a3bc242d00c7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TeaMenu.AppViewModel.$bubbleTeaMenu.getter : Combine.Published&lt;Swift.Array&lt;TeaMenu.BubbleTea&gt;&gt;.Publisher"
+                  moduleName = "TeaMenu"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mine/Desktop/TeaMenu/TeaMenu/AppViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "6"
+                  endingLineNumber = "6"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "2049B311-6396-479A-9ACB-A0F77A71A524 - 1c9f554f46aa00cb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TeaMenu.AppViewModel.$bubbleTeaMenu.setter : Combine.Published&lt;Swift.Array&lt;TeaMenu.BubbleTea&gt;&gt;.Publisher"
+                  moduleName = "TeaMenu"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mine/Desktop/TeaMenu/TeaMenu/AppViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "6"
+                  endingLineNumber = "6"
+                  offsetFromSymbolStart = "196">
+               </Location>
+               <Location
+                  uuid = "2049B311-6396-479A-9ACB-A0F77A71A524 - 8490bc785f217679"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TeaMenu.AppViewModel.$bubbleTeaMenu.modify : Combine.Published&lt;Swift.Array&lt;TeaMenu.BubbleTea&gt;&gt;.Publisher"
+                  moduleName = "TeaMenu"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mine/Desktop/TeaMenu/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "2049B311-6396-479A-9ACB-A0F77A71A524 - cb22996dd11b6b13"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TeaMenu.AppViewModel.$bubbleTeaMenu.modify : Combine.Published&lt;Swift.Array&lt;TeaMenu.BubbleTea&gt;&gt;.Publisher with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "TeaMenu"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mine/Desktop/TeaMenu/TeaMenu/AppViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "6"
+                  endingLineNumber = "6"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "2049B311-6396-479A-9ACB-A0F77A71A524 - eddfe8bbe4552443"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TeaMenu.AppViewModel.init() -&gt; TeaMenu.AppViewModel"
+                  moduleName = "TeaMenu"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mine/Desktop/TeaMenu/TeaMenu/AppViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "6"
+                  endingLineNumber = "6"
+                  offsetFromSymbolStart = "340">
+               </Location>
+               <Location
+                  uuid = "2049B311-6396-479A-9ACB-A0F77A71A524 - cc1e9d3ef06366a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of TeaMenu.AppViewModel.bubbleTeaMenu : Swift.Array&lt;TeaMenu.BubbleTea&gt;"
+                  moduleName = "TeaMenu"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mine/Desktop/TeaMenu/TeaMenu/AppViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "7"
+                  endingLineNumber = "7"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "2049B311-6396-479A-9ACB-A0F77A71A524 - 6bd8ab2fb87c3b00"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TeaMenu.AppViewModel.bubbleTeaMenu.getter : Swift.Array&lt;TeaMenu.BubbleTea&gt;"
+                  moduleName = "TeaMenu"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mine/Desktop/TeaMenu/TeaMenu/AppViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "7"
+                  endingLineNumber = "7"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "2049B311-6396-479A-9ACB-A0F77A71A524 - 98c727a0d0563314"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TeaMenu.AppViewModel.bubbleTeaMenu.setter : Swift.Array&lt;TeaMenu.BubbleTea&gt;"
+                  moduleName = "TeaMenu"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mine/Desktop/TeaMenu/TeaMenu/AppViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "7"
+                  endingLineNumber = "7"
+                  offsetFromSymbolStart = "140">
+               </Location>
+               <Location
+                  uuid = "2049B311-6396-479A-9ACB-A0F77A71A524 - 684d7073be269503"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TeaMenu.AppViewModel.bubbleTeaMenu.modify : Swift.Array&lt;TeaMenu.BubbleTea&gt;"
+                  moduleName = "TeaMenu"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mine/Desktop/TeaMenu/TeaMenu/AppViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "7"
+                  endingLineNumber = "7"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "2049B311-6396-479A-9ACB-A0F77A71A524 - 5760b6a8578d7954"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TeaMenu.AppViewModel.bubbleTeaMenu.modify : Swift.Array&lt;TeaMenu.BubbleTea&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "TeaMenu"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mine/Desktop/TeaMenu/TeaMenu/AppViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "7"
+                  endingLineNumber = "7"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "2049B311-6396-479A-9ACB-A0F77A71A524 - 3d35a3bc242d00e6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TeaMenu.AppViewModel.$bubbleTeaMenu.getter : Combine.Published&lt;Swift.Array&lt;TeaMenu.BubbleTea&gt;&gt;.Publisher"
+                  moduleName = "TeaMenu"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mine/Desktop/TeaMenu/TeaMenu/AppViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "7"
+                  endingLineNumber = "7"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "2049B311-6396-479A-9ACB-A0F77A71A524 - 1c9f554f46aa00ea"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TeaMenu.AppViewModel.$bubbleTeaMenu.setter : Combine.Published&lt;Swift.Array&lt;TeaMenu.BubbleTea&gt;&gt;.Publisher"
+                  moduleName = "TeaMenu"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mine/Desktop/TeaMenu/TeaMenu/AppViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "7"
+                  endingLineNumber = "7"
+                  offsetFromSymbolStart = "196">
+               </Location>
+               <Location
+                  uuid = "2049B311-6396-479A-9ACB-A0F77A71A524 - cb22996dd11b6b32"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TeaMenu.AppViewModel.$bubbleTeaMenu.modify : Combine.Published&lt;Swift.Array&lt;TeaMenu.BubbleTea&gt;&gt;.Publisher with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "TeaMenu"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mine/Desktop/TeaMenu/TeaMenu/AppViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "7"
+                  endingLineNumber = "7"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "2049B311-6396-479A-9ACB-A0F77A71A524 - eddfe8bbe4552462"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TeaMenu.AppViewModel.init() -&gt; TeaMenu.AppViewModel"
+                  moduleName = "TeaMenu"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mine/Desktop/TeaMenu/TeaMenu/AppViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "7"
+                  endingLineNumber = "7"
+                  offsetFromSymbolStart = "352">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
